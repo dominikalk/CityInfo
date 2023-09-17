@@ -42,13 +42,13 @@ namespace CityInfo.API
                     {
                         new PointOfInterestDto()
                         {
-                            Id = 1,
+                            Id = 3,
                             Name = "New Your City",
                             Description = "New York Description",
                         },
                         new PointOfInterestDto()
                         {
-                            Id = 2,
+                            Id = 4,
                             Name = "New Your City 2",
                             Description = "New York 2 Description",
                         },
@@ -63,13 +63,13 @@ namespace CityInfo.API
                     {
                         new PointOfInterestDto()
                         {
-                            Id = 1,
+                            Id = 5,
                             Name = "New Your City",
                             Description = "New York Description",
                         },
                         new PointOfInterestDto()
                         {
-                            Id = 2,
+                            Id = 6,
                             Name = "New Your City 2",
                             Description = "New York 2 Description",
                         },
